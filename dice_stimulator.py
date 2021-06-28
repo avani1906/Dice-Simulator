@@ -56,7 +56,7 @@ while True:
             print("""|-------|""")
             
     else:
-        print("end")
+        print("STIMULATER HAS ENDED")
         sys.exit()
 
 
